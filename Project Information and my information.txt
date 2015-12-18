@@ -1,0 +1,15 @@
+Student: Tyler Osborne
+Class: Game Development 1 - 0NA (Friday mornings from 8:50-10:40am)
+
+I created this game within the past 4 weeks, making progress every week, with changes to gameplay aspects.
+
+I first wanted to make a single-player (quake-like) shooter but after some time working on it, 
+I changed my mind and made a zombie shooter.
+
+I've been having so much trouble with unity and i got some things working (enemies moving towards player and bullets firing) but couldn't get somethings done (destroying enemies when hit and bullet disappearing when hitting enemies, as well as UI)
+
+The mark I would like to get is 60% because I've implemented some of the stuff we've done in class, except for advanced AI
+
+Sorry that I missed some class due to me being sick for most of the semester and I couldn't catch up on the thigs I missed...
+
+Thanks for teaching me on making Unity games and hope to see you around soon!
